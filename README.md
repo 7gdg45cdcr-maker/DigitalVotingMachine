@@ -23,3 +23,6 @@
 - GTKWave
 - VS Code
 - GitHub
+## Block Diagram
+
+![Block Diagram](a_clean_white_background_technical_diagram_block.png)
